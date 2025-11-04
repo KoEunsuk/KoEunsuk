@@ -102,9 +102,9 @@
 
 <p align="center">
   <a href="https://github.com/KoEunsuk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/KoEunsuk-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:koeunsuk12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/koeunsuk12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
