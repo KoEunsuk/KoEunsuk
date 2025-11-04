@@ -26,8 +26,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
